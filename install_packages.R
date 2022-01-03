@@ -1,4 +1,4 @@
-#Highlight each line and click "run" or use cmd-SPACE (Mac) or Ctrl+Enter (PC)
+#Highlight each line and click "run" or use cmd-Enter (Mac) or Ctrl+Enter (PC)
 
 #This will check if you have the correct version of R installed (4.1.1)
 rversion <- R.version
